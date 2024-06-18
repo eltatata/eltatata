@@ -9,5 +9,5 @@ More about me:
 - 🔭 Currently, I work at **Globant** and also as a freelance software developer.
 - 🌱 I am studying AI, software architecture, and deepening my knowledge
 - 👯 I would like to collaborate on projects with innovative technologies
-- 📫 Reach out to me at daviftowo75@gmail.com if you want to discuss anything with me
+- 📫 Reach out to me at **davidtowo75@gmail.com** if you want to discuss anything with me
 - 👀 I am on the lookout for new challenges
