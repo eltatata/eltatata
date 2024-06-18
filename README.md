@@ -1,4 +1,4 @@
-## Hi there! I'm @eltatata (David Tabares Seguro)👋
+## Hi there! I'm David Tabares Seguro👋
 
 I'm a software developer from Colombia. 🇨🇴
 
