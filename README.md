@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there! I'm @eltatata (David Tabares Seguro)👋
 
-<!--
-**eltatata/eltatata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from Colombia. 🇨🇴
 
-Here are some ideas to get you started:
+Web Development 🌍 & AI Enthusiast 🤖 | Mastering Node.js, Next.js, and Python 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More about me:
+
+- 🔭 Currently, I work as a freelance software developer and at Globant
+- 🌱 I am studying AI, software architecture, and deepening my knowledge
+- 👯 I would like to collaborate on projects with innovative technologies
+- 📫 Reach out to me at daviftowo75@gmail.com if you want to discuss anything with me
+- 👀 I am on the lookout for new challenges
