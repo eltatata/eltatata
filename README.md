@@ -6,7 +6,7 @@ Web Development 🌍 & AI Enthusiast 🤖 | Mastering Node.js, Next.js, and Pyth
 
 More about me:
 
-- 🔭 Currently, I work as a freelance software developer and at Globant
+- 🔭 Currently, I work at <u>Globant</u> and also as a freelance software developer.
 - 🌱 I am studying AI, software architecture, and deepening my knowledge
 - 👯 I would like to collaborate on projects with innovative technologies
 - 📫 Reach out to me at daviftowo75@gmail.com if you want to discuss anything with me
